@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Videojuegoteca</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="passwd">Password</string>
+    <string name="welcome">Welcome to Videojuegoteca!</string>
+    <string name="register">Register</string>
+    <string name="accept">Accept</string>
+    <string name="data">Please, introduce your data:</string>
+    <string name="back">Back</string>
+    <string name="platform">Platform</string>
+    <string name="completed">Completed</string>
+    <string name="favourite">Favourite</string>
+    <string name="info">Information</string>
+    <string name="infolong">Welcome! \n This is a app devoloped by Lander Lluvia \n For DM final project</string>
+    <string name="code">Code</string>
+    <string name="codeurl"><a href="https://github.com/LanderLluv">CODE</a></string>
+    <string name="codelong">Check my Github clicking the button!</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="completed_reduced">Cmp</string>
+    <string name="favourite_reduced">Fav</string>
+
+    <string-array name="platforms">
+        <item>Steam</item>
+        <item>GOG</item>
+        <item>Epic Games</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="platforms_all">
+        <item>All</item>
+        <item>Steam</item>
+        <item>GOG</item>
+        <item>Epic Games</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>
